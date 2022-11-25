@@ -1,0 +1,15 @@
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\bin\Debug\net6.0\Final_project1.exe
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\bin\Debug\net6.0\Final_project1.deps.json
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\bin\Debug\net6.0\Final_project1.runtimeconfig.json
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\bin\Debug\net6.0\Final_project1.dll
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\bin\Debug\net6.0\Final_project1.pdb
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.csproj.AssemblyReference.cache
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.AssemblyInfoInputs.cache
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.AssemblyInfo.cs
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.csproj.CoreCompileInputs.cache
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.dll
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\refint\Final_project1.dll
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.pdb
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\Final_project1.genruntimeconfig.cache
+E:\Study\_GeekBrains\Seminar CS Projects\Final_projects\Final_project1\obj\Debug\net6.0\ref\Final_project1.dll
